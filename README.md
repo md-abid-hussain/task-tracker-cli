@@ -2,6 +2,8 @@
 
 Task Tracker is a command-line interface (CLI) application for managing tasks. It allows you to add, update, delete, mark, and list tasks efficiently.
 
+Project URL: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 ## Table of Contents
 
 - [Installation](#installation)
