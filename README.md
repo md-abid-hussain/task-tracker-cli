@@ -9,7 +9,6 @@ Task Tracker is a command-line interface (CLI) application for managing tasks. I
 - [Commands](#commands)
 - [Development](#development)
 - [Testing](#testing)
-- [License](#license)
 
 ## Installation
 
